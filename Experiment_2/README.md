@@ -66,3 +66,5 @@ Learning Outcome
 ●	Sort query results using ORDER BY.
 
 
+<img width="1196" height="474" alt="a" src="https://github.com/user-attachments/assets/39530cd2-1884-4be7-a5c9-a6c9bf85a02a" />
+<img width="650" height="294" alt="Screenshot 2026-01-21 221538" src="https://github.com/user-attachments/assets/7919a901-f2a2-483d-9390-3957d02ed8f3" />
